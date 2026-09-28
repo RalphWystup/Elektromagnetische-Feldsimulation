@@ -1,5 +1,7 @@
 # Das Feld-Labor: Ritz-Verfahren und Finite Elemente in 1D und 2D
 
+<img src="Foto_Ralph_Wystup.jpg" align="right" width="140" alt="Prof. Dr.-Ing. Ralph Wystup">
+
 Prof. Dr.-Ing. Ralph Wystup M.Sc. — erstellt mit KI und Agent (Claude Code, Anthropic)
 
 Eine 2D-Feldgleichung mit einer gewöhnlichen Netzwerkberechnung lösen. Die exakte Übersetzung: vom Rechteckgebiet zur Netzliste und zurück.
