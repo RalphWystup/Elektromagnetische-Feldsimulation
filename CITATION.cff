@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Wenn Sie diese Arbeit verwenden, zitieren Sie sie bitte wie folgt."
+title: "Elektromagnetische Feldsimulation"
+abstract: "Eine zweidimensionale Feldgleichung mit einer gewöhnlichen Netzwerkberechnung lösen: vom Gebiet zur Netzliste und zurück, mit dem Ritz-Verfahren und finiten Elementen."
+type: software
+authors:
+  - family-names: Wystup
+    given-names: Ralph
+    name-particle: ""
+    name-suffix: "Prof. Dr.-Ing., M.Sc."
+license: MIT
+url: "https://ralphwystup.github.io/Elektromagnetische-Feldsimulation/"
+repository-code: "https://github.com/RalphWystup/Elektromagnetische-Feldsimulation"
+date-released: "2026-09-30"
+keywords:
+  - Feldsimulation
+  - FEM
+  - Ritz-Verfahren
+  - Netzwerkanalogie
