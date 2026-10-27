@@ -6,7 +6,7 @@ Prof. Dr.-Ing. Ralph Wystup M.Sc. — erstellt mit KI und Agent (Claude Code, An
 
 Eine 2D-Feldgleichung mit einer gewöhnlichen Netzwerkberechnung lösen. Die exakte Übersetzung: vom Rechteckgebiet zur Netzliste und zurück.
 
-**Seite öffnen:** https://ralphwystup.github.io/Elektromagnetische-Feldsimulation/ — Build 2.5 · 31.08.2026
+**Seite öffnen:** https://ralphwystup.github.io/Elektromagnetische-Feldsimulation/ — Build 2.6 · 27.10.2026
 
 Die Seite ist **eine einzige HTML-Datei**. Sie rechnet im Browser; es gibt keinen Server, keine Installation und keine Aufzeichnung. Wer sie ohne Netz benutzen will, lädt `Feld_Labor_2.5.html` herunter und öffnet sie im Browser — das ist dieselbe Datei.
 
@@ -16,7 +16,8 @@ Das Ritz-Verfahren und die Finite-Elemente-Methode in 1D und 2D, mit der Netzwer
 
 | Datei | Inhalt |
 |:--|:--|
-| [`Feld_Labor_2.5.html`](Feld_Labor_2.5.html) | die Seite selbst (Build 2.5 · 31.08.2026) |
+| [`Feld_Labor_2.6.html`](Feld_Labor_2.6.html) | die Seite selbst (Build 2.6 · 27.10.2026: Diagnoseschnittstelle `window.PRUEFSTAND`, Rechenkern unverändert) |
+| [`ALT/Feld_Labor_2.5.html`](ALT/Feld_Labor_2.5.html) | die vorige Fassung (Build 2.5 · 31.08.2026) |
 | [`MANUSKRIPT_Ritz_FEM1D.pdf`](MANUSKRIPT_Ritz_FEM1D.pdf) | Ritz-Verfahren und FEM in einer Dimension |
 | [`MANUSKRIPT_FEM2D_Netzwerk.pdf`](MANUSKRIPT_FEM2D_Netzwerk.pdf) | FEM in zwei Dimensionen und die Netzwerkanalogie |
 | [`MANUSKRIPT_Feldlabor.pdf`](MANUSKRIPT_Feldlabor.pdf) | Das Feld-Labor: Bedienung und Proben |
