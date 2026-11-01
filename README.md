@@ -8,7 +8,7 @@ Eine 2D-Feldgleichung mit einer gewöhnlichen Netzwerkberechnung lösen. Die exa
 
 **Seite öffnen:** https://ralphwystup.github.io/Elektromagnetische-Feldsimulation/ — Build 2.6 · 27.10.2026
 
-Die Seite ist **eine einzige HTML-Datei**. Sie rechnet im Browser; es gibt keinen Server, keine Installation und keine Aufzeichnung. Wer sie ohne Netz benutzen will, lädt `Feld_Labor_2.5.html` herunter und öffnet sie im Browser — das ist dieselbe Datei.
+Die Seite ist **eine einzige HTML-Datei**. Sie rechnet im Browser; es gibt keinen Server, keine Installation und keine Aufzeichnung. Wer sie ohne Netz benutzen will, lädt `Feld_Labor_2.6.html` herunter und öffnet sie im Browser — das ist dieselbe Datei.
 
 Das Ritz-Verfahren und die Finite-Elemente-Methode in 1D und 2D, mit der Netzwerkanalogie als unabhängiger Gegenprobe.
 
